@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/animals.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/animals_1.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/animals_2.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/animals_3.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/animals_4.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/animals_5.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/animals_6.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/animals_dove.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/animals_penguin.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/animals_rabbit.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/colors.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/colors_1.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/colors_2.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/colors_3.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/colors_4.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/colors_5.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/colors_6.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/colors_7.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/fruits.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/fruits_apple.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/fruits_banana.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/fruits_berry.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/fruits_grape.xml" value="0.215625" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/fruits_peach.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/fruits_strawberry.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/fruits_watermelon.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/listMain.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/list_main.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportation.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportation_1.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportation_2.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportation_3.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportation_4.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportation_5.xml" value="0.2536144578313253" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportation_6.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportations.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportations_1.xml" value="0.264" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportations_2.xml" value="0.4" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportations_3.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportations_4.xml" value="0.2" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportations_5.xml" value="0.264" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/transportations_6.xml" value="0.2" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/weathers.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/weathers_1.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/weathers_2.xml" value="0.1" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/weathers_3.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/weathers_4.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/weathers_5.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/weathers_6.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/jjy20/AndroidStudioProjects/MyEnglishBook/app/src/main/res/layout/whether.xml" value="0.21927083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
