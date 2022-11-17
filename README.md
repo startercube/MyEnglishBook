@@ -4,7 +4,6 @@
 <img src="SW 전시회 판넬.png" width="640px"/>
 
 
-
 <개발환경>
 
   앱: Java
