@@ -2,7 +2,9 @@
 2022 SW exhibition
 
 <img src="SW전시회 판넬.png" width="640px"/>
-
+<img src="캡쳐1.png" width="640px"/>
+<img src="캡쳐2.png" width="640px"/>
+<img src="캡쳐3.png" width="640px"/>
 
 
 <개발환경>
