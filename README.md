@@ -1,7 +1,7 @@
 # MyEnglishBook
 2022 SW exhibition
 
-<img src=".png" width="640px"/>
+<img src="SW 전시회 판넬.png" width="640px"/>
 
 
 
