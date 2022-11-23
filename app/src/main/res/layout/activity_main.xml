@@ -6,10 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:background="#FAF4C0">
+
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/kty"
+        app:layout_constraintEnd_toEndOf="parent"
         tools:ignore="MissingConstraints"></ImageView>
 
     <TextView
