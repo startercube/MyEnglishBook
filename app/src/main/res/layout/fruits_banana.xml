@@ -4,21 +4,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <TextView
-        android:id="@+id/banana"
-        android:gravity="center"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="바나나\nBanana"
-        android:textSize="50dp"
-        android:textColor="#FF000000"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.703" >
-    </TextView>
+
     <EditText
 
         android:id="@+id/editText"
@@ -67,6 +53,22 @@
         app:layout_constraintVertical_bias="0.45">
 
     </ImageView>
+
+    <TextView
+        android:id="@+id/banana"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="바나나\nBanana"
+        android:textSize="50dp"
+        android:textColor="#FF000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.703" >
+    </TextView>
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar_banana"

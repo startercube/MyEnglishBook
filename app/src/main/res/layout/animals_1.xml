@@ -5,6 +5,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
 
+
+
     <EditText
 
         android:id="@+id/editText"
@@ -62,7 +64,8 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.45">
+        app:layout_constraintVertical_bias="0.45"
+        android:layout_marginBottom="15dp">
 
     </ImageView>
 
@@ -81,6 +84,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.703" >
     </TextView>
+
+
 
 
 
