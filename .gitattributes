@@ -1,1 +1,2 @@
+/path/to/your/code/**/* linguist-vendored
 *.java linguist-language=Java
