@@ -6,7 +6,7 @@
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?style=flat-square&logo=androidstudio&logoColor=3DDC84)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![minSdk](https://img.shields.io/badge/minSdk-19-blue?style=flat-square)
 ![targetSdk](https://img.shields.io/badge/targetSdk-33-blue?style=flat-square)
@@ -86,7 +86,7 @@ Android Studio에서 프로젝트를 열고 실행하거나, 아래 명령으로
 ./gradlew assembleDebug
 ```
 
-빌드된 APK를 바로 설치해 보려면 [`app/release/app-release.apk`](app/release/app-release.apk)를 사용하세요.
+빌드 없이 바로 설치해 보려면 [Releases](https://github.com/startercube/MyEnglishBook/releases/latest)에서 APK를 내려받으세요. (Android 4.4 이상, "출처를 알 수 없는 앱" 설치 허용 필요)
 
 ## 🔍 Retrospective
 
