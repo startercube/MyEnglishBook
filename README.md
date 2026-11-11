@@ -6,6 +6,8 @@
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![minSdk](https://img.shields.io/badge/minSdk-19-blue?style=flat-square)
 ![targetSdk](https://img.shields.io/badge/targetSdk-33-blue?style=flat-square)
 
