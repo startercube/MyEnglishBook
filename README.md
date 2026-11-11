@@ -11,6 +11,8 @@
 
 2022 한림대학교 소프트웨어학부 **제30회 Caerang SW 전시회** 출품작 (2022.11.24 – 11.26)
 
+<img src="docs/images/panel.png" width="480"/>
+
 </div>
 
 ---
@@ -97,9 +99,3 @@ Android Studio에서 프로젝트를 열고 실행하거나, 아래 명령으로
 | 이름 | 역할 |
 |---|---|
 | 정준용 | 기획 · 디자인 · 개발 |
-
-<details>
-<summary>전시회 판넬 보기</summary>
-<br/>
-<img src="docs/images/panel.png" width="480"/>
-</details>
