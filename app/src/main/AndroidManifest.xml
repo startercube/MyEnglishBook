@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jjun.myenglishbook">
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <application
+
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="키즈북"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyEnglishBook">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity android:name=".ListActivity"></activity>
+
+        <activity android:name=".Fruits"></activity>
+        <activity android:name=".FruitsApple"></activity>
+        <activity android:name=".FruitsBanana"></activity>
+        <activity android:name=".FruitsBerry"></activity>
+        <activity android:name=".FruitsGrape"></activity>
+        <activity android:name=".FruitsWatermelon"></activity>
+        <activity android:name=".FruitsPeach"></activity>
+        <activity android:name=".Animals"></activity>
+        <activity android:name=".Animals1"></activity>
+        <activity android:name=".Animals2"></activity>
+        <activity android:name=".Animals3"></activity>
+        <activity android:name=".Animals4"></activity>
+        <activity android:name=".Animals5"></activity>
+        <activity android:name=".Animals6"></activity>
+        <activity android:name=".Colors"></activity>
+        <activity android:name=".Colors1"></activity>
+        <activity android:name=".Colors2"></activity>
+        <activity android:name=".Colors3"></activity>
+        <activity android:name=".Colors4"></activity>
+        <activity android:name=".Colors5"></activity>
+        <activity android:name=".Colors6"></activity>
+        <activity android:name=".Colors7"></activity>
+        <activity android:name=".Weather"></activity>
+        <activity android:name=".Weather1"></activity>
+        <activity android:name=".Weather2"></activity>
+        <activity android:name=".Weather3"></activity>
+        <activity android:name=".Weather4"></activity>
+        <activity android:name=".Weather5"></activity>
+        <activity android:name=".Weather6"></activity>
+        <activity android:name=".Transportations"></activity>
+        <activity android:name=".Transportations1"></activity>
+        <activity android:name=".Transportations2"></activity>
+        <activity android:name=".Transportations3"></activity>
+        <activity android:name=".Transportations4"></activity>
+        <activity android:name=".Transportations5"></activity>
+        <activity android:name=".Transportations6"></activity>
+
+
+
+
+
+
+
+
+    </application>
+
+</manifest>
